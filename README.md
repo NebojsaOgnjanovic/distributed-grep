@@ -23,7 +23,7 @@
 - **Search Capabilities**:  
    - Perform keyword-based text search.  
    - Include fuzzy search functionality for approximate matches.  
-   - Display search results with surrounding context:  
+   - Return search results with surrounding context:  
      **[250 characters before] + [keyword] + [250 characters after]**.  
 - **Navigation**:  
    - Provide functionality to jump to the next search result.  
